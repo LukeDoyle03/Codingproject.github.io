@@ -37,7 +37,7 @@ li a:hover:not(.active) {
 <ul>
   <li><a class="active" href="#home">Home</a></li>
   <li><a href="#Facts">Facts</a></li>
-  <li><a href="#Images">Contact</a></li
+  <li><a href="#Images">Images</a></li
   <input type="text" placeholder="Search..">
 </ul>
 
