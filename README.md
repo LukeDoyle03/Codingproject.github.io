@@ -1,8 +1,15 @@
 
 
 <html>
+  
+   <head>
+
+       <title>History wikipedia</title>
+ </head>
+ <strong>History wikipedia</strong>
+<body>
   <head>
-<style>
+<style>{
 ul {
     list-style-type: none;
     margin: 0;
@@ -37,7 +44,7 @@ li a:hover:not(.active) {
 <ul>
   <li><a class="active" href="#home">Home</a></li>
   <li><a href="#Facts">Facts</a></li>
-  <li><a href="#Images">Images</a></li
+  <li><a href="#Images">Images</a></li>
   <input type="text" placeholder="Search..">
 </ul>
 
