@@ -1,15 +1,8 @@
 
 
 <html>
-  
-   <head>
-
-       <title>History wikipedia</title>
- </head>
- <strong>History wikipedia</strong>
-<body>
   <head>
-<style>{
+<style>
 ul {
     list-style-type: none;
     margin: 0;
@@ -43,12 +36,14 @@ li a:hover:not(.active) {
 
 <ul>
   <li><a class="active" href="#home">Home</a></li>
-  <li><a href="#facts">Facts</a></li>
-  <li><a href="#images">Images</a></li>
+  <li><a href="#Facts">Facts</a></li>
+  <li><a href="#Images">Contact</a></li
   <input type="text" placeholder="Search..">
 </ul>
 
 </body>
+</html>
+
 <p style="color:DodgerBlue;">On this website you can type in topics and phrases got to do with history and different facts will come up about what you search</p>
   
 <p style="color:DodgerBlue;">When you click on the facts section of the website you can look up different topics and information will come up about them</p>
