@@ -41,8 +41,8 @@
  </ul> 
 
  </body>
-  <p style="color:DodgerBlue;"></p>On this website you can type in topics and phrases got to do with history and different facts will come up about what you search</p>
+  <p style="color:DodgerBlue;"</p>On this website you can type in topics and phrases got to do with history and different facts will come up about what you search</p>
     
-  <p style="color:DodgerBlue;"></p>When you click on the facts section of the website you can look up different topics and information will come up about them</p>
+  <p style="color:DodgerBlue;"</p>When you click on the facts section of the website you can look up different topics and information will come up about them</p>
   
-  <p style="color:DodgerBlue;"></p>When you click on this part of the website different images will come up of what you looked up</p>
+  <p style="color:DodgerBlue;"</p>When you click on this part of the website different images will come up of what you looked up</p>
