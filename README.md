@@ -38,30 +38,11 @@
    <li><a class="active" href="#home">Home</a></li>
    <li><a href="#facts">Facts</a></li>
    <li><a href="#images">Images</a></li>
- </ul>
- 
-<html>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lobster">
-<style>
-.w3-lobster {
-    font-family: "Lobster", serif;
-}
-</style>
-<body>
+ </ul> 
 
-<div class="w3-container w3-lobster">
-  <p class="w3-xxxlarge"></p>
-</div>
-
-</body>
-</html> 
-
- 
  </body>
-  <p style="color:DodgerBlue;"><p class="w3-xxxlarge"></p>On this website you can type in topics and phrases got to do with history and different facts will come up about what you search</p>
+  <p style="color:DodgerBlue;"></p>On this website you can type in topics and phrases got to do with history and different facts will come up about what you search</p>
     
-  <p style="color:DodgerBlue;"><p class="w3-xxxlarge"></p>When you click on the facts section of the website you can look up different topics and information will come up about them</p>
+  <p style="color:DodgerBlue;"></p>When you click on the facts section of the website you can look up different topics and information will come up about them</p>
   
-  <p style="color:DodgerBlue;"><p class="w3-xxxlarge"></p>When you click on this part of the website different images will come up of what you looked up</p>
+  <p style="color:DodgerBlue;"></p>When you click on this part of the website different images will come up of what you looked up</p>
