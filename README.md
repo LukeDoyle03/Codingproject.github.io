@@ -38,8 +38,7 @@
  <ul>
    <li><a class="active" href="https://lukedoyle03.github.io/Codingproject.github.io/">Home</a></li>
    <li><a href="https://lukedoyle03.github.io/LukeDoyle03-2.github.io/">Facts</a></li>
-   <li><a href="#images">Images</a></li>
-   <input type="text" placeholder="Search..">
+   <li><a href="https://lukedoyle03.github.io/LukeDoyle03-3.github.io/">Images</a></li>
  </ul> 
 
  </body>
