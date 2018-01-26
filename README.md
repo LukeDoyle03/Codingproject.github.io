@@ -3,9 +3,6 @@
   <body>
 <head>
  <style>
-    {
-  background: linear-gradient(to right, red,orange,yellow,green); 
-}
  ul {
      list-style-type: none;
      margin: 0;
