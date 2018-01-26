@@ -3,9 +3,9 @@
   <body>
 <head>
  <style>
-   body {
-    background-image: url("https://giphy.com/gifs/vvvv-futureshit-l0HlA96OHn6pgUaQw"); 
- }
+   
+   <body style="background-image:url(https://giphy.com/gifs/vvvv-futureshit-l0HlA96OHn6pgUaQw)">
+                
  ul {
      list-style-type: none;
      margin: 0;
