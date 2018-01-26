@@ -36,8 +36,8 @@
  <body>
 
  <ul>
-   <li><a class="active" href="https://github.com/LukeDoyle03/codingproject.github.io2/blob/master/Facts">Home</a></li>
-   <li><a href="#facts">Facts</a></li>
+   <li><a class="active"home">Home</a></li>
+   <li><a href="https://github.com/LukeDoyle03/codingproject.github.io2/blob/master/Facts">Facts</a></li>
    <li><a href="#images">Images</a></li>
    <input type="text" placeholder="Search..">
  </ul> 
