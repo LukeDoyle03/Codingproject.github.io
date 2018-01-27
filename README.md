@@ -1,12 +1,5 @@
 
-   <strong>History wikipedia</strong>
-   <head>
-<style>
-body {
-    background-image: url("https://cdn.dribbble.com/users/32512/screenshots/2904026/simple_logo_dots.gif");
-}
-</head>
-</style> 
+   <strong>History wikipedia</strong> 
    
   <body>
 <head>
