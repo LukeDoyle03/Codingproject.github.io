@@ -1,6 +1,18 @@
 <h1 style="text-align:center;">Home</h1>
    <strong>History wikipedia</strong> 
    
+   <com.steelkiwi.library.SlidingSquareLoaderView
+    android:id="@+id/view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:sslv_corner_radius="@dimen/corner_radius"
+    app:sslv_margin="@dimen/margin"
+    app:sslv_end_gradient_color="@color/end_gradient_color"
+    app:sslv_start_gradient_color="@color/start_gradient_color"
+    app:sslv_background_color="@color/background"
+    app:sslv_square_size="@dimen/square_size"/>
+  
+  
   <body>
 <head>
  <style>
